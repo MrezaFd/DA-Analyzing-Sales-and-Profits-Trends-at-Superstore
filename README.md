@@ -90,7 +90,7 @@ The “Canon imageCLASS 2200 Advanced Copier” and “Fellowes PB500 Electric P
    - Conduct a detailed cost analysis of products with lower profit margins to identify areas for improvement.
    - Optimize logistics based on the popularity of "Standard Class" shipping.
 
-If you're interested in seeing a more insightful Dashboard analysis of the superstore, you can click [HERE](https://lookerstudio.google.com/embed/reporting/fcb24198-9991-4076-871f-6c5615179974/page/UwsTB).
+If you're interested in seeing a more insightful Dashboard analysis of the superstore, you can click [HERE](https://lookerstudio.google.com/u/0/reporting/5b65978f-c19b-4133-b0e9-da89870261d4/page/efxM).
 
 
 
