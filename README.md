@@ -1,6 +1,6 @@
 # DA-Analyzing-Sales-and-Profits-Trends-at-Superstore
 
-(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fstore&psig=AOvVaw2XVvj3A5-7HdxTIDM-o62_&ust=1695993869121000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODA-dOzzYEDFQAAAAAdAAAAABAE)
+![Alt text]([image_url](https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fstore&psig=AOvVaw2XVvj3A5-7HdxTIDM-o62_&ust=1695993869121000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODA-dOzzYEDFQAAAAAdAAAAABAE))
 
 ## Introduction
 
