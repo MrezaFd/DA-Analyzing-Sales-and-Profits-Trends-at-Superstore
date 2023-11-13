@@ -1,6 +1,7 @@
 Analyzing Sales and Profits Trends at Superstore (2014–2017) Using SQL and Looker Studio
 
-![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saintaugustinevacationrentals.com%2Fshop-at-these-popular-grocery-stores-in-st-augustine-fl%2F&psig=AOvVaw22mjL5Rp1TKHVACi0qNHZr&ust=1699941421698000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiPmLalwIIDFQAAAAAdAAAAABAJ)
+![Beautiful Landscape](https://github.com/MrezaFd/DA-Analyzing-Sales-and-Profits-Trends-at-Superstore-/grocery-unsplash.jpg)
+
 
 ## Introduction
 
