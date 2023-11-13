@@ -1,6 +1,6 @@
 Analyzing Sales and Profits Trends at Superstore (2014–2017) Using SQL and Looker Studio
 
-![Beautiful Landscape](https://github.com/MrezaFd/DA-Analyzing-Sales-and-Profits-Trends-at-Superstore-/grocery-unsplash.jpg)
+(https://github.com/MrezaFd/DA-Analyzing-Sales-and-Profits-Trends-at-Superstore-/grocery-unsplash.jpg)
 
 
 ## Introduction
